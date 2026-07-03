@@ -151,6 +151,16 @@ High-performance C++ file organizer.
 
 ---
 
+# 📊 GitHub Metrics
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/KrishMaheshwariDev/KrishMaheshwariDev/main/github-metrics.svg"/>
+
+</p>
+
+---
+
 # 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishMaheshwariDev&theme=tokyo-night&hide_border=true"/>

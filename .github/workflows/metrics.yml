@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: lowlighter/metrics@v3
+      - uses: lowlighter/metrics@latest
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}

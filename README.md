@@ -137,7 +137,7 @@ High-performance C++ file organizer.
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KrishMaheshwariDev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishMaheshwariDev&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=KrishMaheshwariDev&theme=tokyonight&hide_border=true"/>
 
 </div>
 

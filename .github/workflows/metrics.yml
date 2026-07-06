@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3
         with:
           filename: github-metrics.svg
 
@@ -22,7 +22,7 @@ jobs:
           user: KrishMaheshwariDev
 
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, repositories
 
           config_timezone: Asia/Kolkata
 
@@ -37,5 +37,3 @@ jobs:
           plugin_achievements_threshold: C
 
           plugin_stars: yes
-
-          plugin_followup: yes

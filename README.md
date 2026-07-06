@@ -135,7 +135,7 @@ High-performance C++ file organizer.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KrishMaheshwariDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KrishMaheshwariDev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishMaheshwariDev&theme=tokyonight&hide_border=true"/>
 
@@ -145,7 +145,7 @@ High-performance C++ file organizer.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishMaheshwariDev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KrishMaheshwariDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -167,19 +167,7 @@ High-performance C++ file organizer.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KrishMaheshwariDev&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 🐍 Contribution Snake
-
-> *(This will work after adding the GitHub Action workflow.)*
 
 <p align="center">
 

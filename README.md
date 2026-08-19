@@ -135,19 +135,12 @@ High-performance C++ file organizer.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KrishMaheshwariDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" height="240" src="https://github-stats-extended.vercel.app/api?username=KrishMaheshwariDev&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&&show=reviews,prs_merged,prs_merged_percentage,prs_authored"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=KrishMaheshwariDev&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KrishMaheshwariDev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" height="240" src="https://github-stats-extended.vercel.app/api/top-langs/?username=KrishMaheshwariDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
+
 
 ---
 

@@ -154,12 +154,6 @@ High-performance C++ file organizer.
 
 ---
 
-# 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishMaheshwariDev&theme=tokyo-night&hide_border=true"/>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
